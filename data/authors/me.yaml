@@ -1,0 +1,144 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Emmanuel G. # Gnabeyeu
+  given: Emmanuel
+  family: G. # Gnabeyeu
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  icon: "🧮"
+role: Researcher in Mathematics and Applications
+bio: |
+  Hi, welcome to my website! I am a Research Scientist in Mathematics working on stochastic analysis, optimal control, diffusion models, and statistics, with applications to mathematical finance and machine learning. Prior to this, I earned an engineering degree from École Polytechnique and a bachelor’s degree in philosophy from Université Paris Nanterre.
+  
+affiliations:
+  - name: Sorbonne Université
+    url: https://www.sorbonne-universite.fr
+  - name: Laboratoire de Probabilités, Statistique et Modélisation (LPSM)
+    url: https://www.lpsm.paris/
+  - name: 4 Place Jussieu, Paris, 75005
+    icon: fas fa-map-marker-alt
+  - name: Couloir 16-26 Bureau 201
+    icon: "fas fa-door-closed"
+    # office: Couloir 16-26 Bureau 201
+    # address_icon: "fas fa-map-marker-alt"  # Icon for location/address
+    # office_icon: "fas fa-door-closed"     # Icon for office
+
+links:
+  - icon: at-symbol
+    url: mailto:emmanuel.gnabeyeu@sorbonne-universite.fr
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Emma-Gnabeyeu
+  - icon: brands/linkedin
+    url: https://uk.linkedin.com/in/emmanuel-g-18b2bb20b
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=S7xCgI8AAAAJ&hl=fr
+
+interests:
+  - Stochastic Analysis
+  - Optimization and Control # Optimal Control
+  - Statistics
+  - Mathematical Finance
+  - Probabilistic and Statistical Machine Learning
+  - Continuous Control and Reinforcement Learning
+  # - Stochastic Optimization for Machine Learning
+
+education:
+  - degree: Doctor of Philosophy in Mathematics
+    institution: Ecole Doctorale Sciences Mathematiques de Paris Centre
+    url: https://ed386.sorbonne-universite.fr/fr/index.html
+    start: 2024
+  - degree: Master of Science in Mathematics
+    institution: Sorbonne Université and Ecole Polytechnique
+    start: 2023
+    end: 2024
+  - degree: Diploma of Ecole Polytechnique # in Mathematics and Applications
+    institution: Ecole Polytechnique (l'X)
+    start: 2020
+    end: 2024
+
+experience:
+  # === Academic Experience ===
+  - type: academic
+    role: Research Scientist
+    org: Sorbonne Université, Laboratoire de Probabilités, Statistique et Modélisation (LPSM)
+    start: 2024
+    summary: |
+      Researching in stochastic analysis, Optimization and Control, Generative diffusion models, and their applications in finance and machine learning.
+  - type: academic
+    role: Junior Research Scientist
+    org: AIvidence Start-Up & École Polytechnique, Palaiseau, France
+    start: 2021
+    end: 2022
+    summary: |
+      Technological Monitoring and New Mathematical approches to the 
+        Explainability of AI and statistical learning algorithms (XAI project).
+
+  # === Industry Experience ===
+  - type: industry
+    role: Quantitative Researcher
+    org: Citigroup Global Markets Limited, London, UK
+    start: 2024-04
+    end: 2024-11
+    summary: |
+      Machine Learning for flows and exotic equity derivatives.
+  - type: industry
+    role: Quantitative Researcher & Strategist
+    org: BNP Paribas Asset Management, Paris, France
+    start: 2023-04
+    end: 2023-09
+    summary: |
+      Statistical Models for mid-frequency systematic equity investment strategies.
+  - type: industry
+    role: Data Scientist & ML Engineer
+    org: BOXY Start-Up, Paris, France
+    start: 2022-06
+    end: 2022-09
+    summary: |
+      Mathematical modelling and demand forecasting in autonomous retail systems.
+awards:
+  - title: First Prize – Best Master's Thesis in Quantitative Finance
+    awarder: Natixis Foundation for Research and Innovation
+    date: "2025"
+    summary: |
+      First Prize for the 2025 edition of the best master's thesis in Mathematical Finance: Award granted for an outstanding master’s thesis.
+    url: https://natixis.groupebpce.com/articles/prize-for-best-masters-thesis-in-quantitative-finance/
+    icon: hero/trophy
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: Stochastic Modeling
+        level: 5
+      - label: Statistics
+        level: 5
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 4
+     # - label: Grant Proposals
+     #   level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+  - name: French
+    level: 5
+    label: Native
+  - name: German
+    level: 3
+  - name: Spanish
+    level: 3
+ 
+
+

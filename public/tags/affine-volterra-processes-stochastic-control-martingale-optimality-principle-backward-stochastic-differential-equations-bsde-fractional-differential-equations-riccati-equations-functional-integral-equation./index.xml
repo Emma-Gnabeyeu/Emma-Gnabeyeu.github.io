@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affine Volterra Processes, Stochastic Control, Martingale Optimality Principle, Backward Stochastic Differential Equations (BSDE), Fractional Differential Equations, Riccati Equations, Functional Integral Equation. | </title>
+    <link>http://localhost:1313/tags/affine-volterra-processes-stochastic-control-martingale-optimality-principle-backward-stochastic-differential-equations-bsde-fractional-differential-equations-riccati-equations-functional-integral-equation./</link>
+      <atom:link href="http://localhost:1313/tags/affine-volterra-processes-stochastic-control-martingale-optimality-principle-backward-stochastic-differential-equations-bsde-fractional-differential-equations-riccati-equations-functional-integral-equation./index.xml" rel="self" type="application/rss+xml" />
+    <description>Affine Volterra Processes, Stochastic Control, Martingale Optimality Principle, Backward Stochastic Differential Equations (BSDE), Fractional Differential Equations, Riccati Equations, Functional Integral Equation.</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Affine Volterra Processes, Stochastic Control, Martingale Optimality Principle, Backward Stochastic Differential Equations (BSDE), Fractional Differential Equations, Riccati Equations, Functional Integral Equation.</title>
+      <link>http://localhost:1313/tags/affine-volterra-processes-stochastic-control-martingale-optimality-principle-backward-stochastic-differential-equations-bsde-fractional-differential-equations-riccati-equations-functional-integral-equation./</link>
+    </image>
+    
+    <item>
+      <title>On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.</title>
+      <link>http://localhost:1313/publications/preprint4/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/preprint4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

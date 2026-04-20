@@ -1,0 +1,30 @@
+---
+title: "Selected Recent & Upcoming Talks"
+type: page
+---
+#url: talk
+### December 2025  
+**Doctoral Seminar** — Sorbonne Université,  
+Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Paris, France.
+
+- *On Inhomogeneous Fractional Square-Root Processes:  
+  Microstructural Foundations and Weak Stationarity Theory.*
+
+---
+
+### October 2025  
+**Natixis Foundation for Research and Innovation Awards Ceremony  
+for Best Master's Thesis in Quantitative Finance** —  
+Sky Garden (BPCE Tower), Paris, France.
+
+- *A Reinforcement Learning Perspective on Exotics and Flow Equity Derivatives.*
+
+---
+
+### July 2025  
+**5th Barcelona Summer School of Stochastic Analysis and Quantitative Finance** —  
+Centre de Recerca Matemàtica, Barcelona, Spain.
+
+- *On a Stationarity Theory for Stochastic Volterra Integral Equations  
+  with Affine Drift: Finite-Time Functional Weak Asymptotics and Applications.*
+
