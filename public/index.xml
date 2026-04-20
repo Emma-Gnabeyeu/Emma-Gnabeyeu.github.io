@@ -1115,7 +1115,7 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-486329517" class="chart">&lt;/div>
+&lt;div id="chart-974132568" class="chart">&lt;/div>
 &lt;script>
 (function() {
 async function fetchChartJSON() {
@@ -1131,7 +1131,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-486329517', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-974132568', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
