@@ -7,8 +7,8 @@
 title: ''
 # Website URL
 baseURL: 'https://emma-gnabeyeu.github.io/' # https://example.com/
-relativeURLs: true # added
-canonifyURLs: true #added
+## relativeURLs: true # added
+## canonifyURLs: false #added
 ############################
 ## LANGUAGE
 ############################

@@ -8,7 +8,7 @@ type: "page"
 **Sorbonne Université, Faculty of Science & Engineering, Paris, France**
 
 - Numerical Analysis (Bachelor’s Level 3, Mathematics): [DST1](../uploads/DST_analyse_numérique_1.pdf), [DST2](../uploads/DST_analyse_numérique_2.pdf).
-- Advanced Mathematics (Bachelor’s Degree – First Year, Mathematics): [CC1](../uploads/CC1_2026.pdf)
+- Advanced Mathematics (Bachelor’s Degree – First Year, Mathematics): [CC1](../uploads/CC1_2026.pdf), [CC2](../uploads/CC2_2026.pdf)
 
 ---
 
