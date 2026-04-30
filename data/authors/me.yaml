@@ -44,7 +44,7 @@ links:
 
 interests:
   - Stochastic Analysis
-  - Optimization and Control # Optimal Control
+  - Optimal Control # Optimization and Control # Optimal Control
   - Statistics
   - Mathematical Finance
   - Probabilistic and Statistical Machine Learning
@@ -105,11 +105,11 @@ experience:
     summary: |
       Mathematical modelling and demand forecasting in autonomous retail systems.
 awards:
-  - title: First Prize – Best Master's Thesis in Quantitative Finance
+  - title: First Prize – 2025 Best European Best Master's Thesis in Quantitative Finance
     awarder: Natixis Foundation for Research and Innovation
     date: "2025"
     summary: |
-      First Prize for the 2025 edition of the best master's thesis in Mathematical Finance: Award granted for an outstanding master’s thesis.
+      First Prize for the 2025 edition of the best European master's thesis in Mathematical Finance: Award granted for an outstanding master’s thesis.
     url: https://natixis.groupebpce.com/articles/prize-for-best-masters-thesis-in-quantitative-finance/
     icon: hero/trophy
 skills:

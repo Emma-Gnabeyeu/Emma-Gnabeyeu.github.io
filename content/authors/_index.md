@@ -14,6 +14,7 @@ bio: >
 
 interests:
   - Stochastic Analysis
+  - Stochastic Optimal Control
   - Statistics
   - Mathematical Finance
   - Probabilistic and Statistical Machine Learning

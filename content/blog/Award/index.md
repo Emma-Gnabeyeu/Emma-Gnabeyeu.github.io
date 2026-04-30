@@ -30,7 +30,7 @@ cover:
     name: "✨"
 ---
 
-## 🏆 Award: 2025 Best Master’s Thesis in Mathematical Finance. 
+## 🏆 Award: 2025 Best European Master’s Thesis in Mathematical Finance. 
 Recipient of the 2025 Natixis Award for Best Master’s Thesis in Mathematical Finance, awarded by the [Natixis Foundation for Research and Innovation](https://natixis.groupebpce.com/articles/prize-for-best-masters-thesis-in-quantitative-finance/). | [PDF of my Master’s thesis](/uploads/MasterThesis_EmmanuelGnabeyeu.pdf) |
 
 ## Related Work
