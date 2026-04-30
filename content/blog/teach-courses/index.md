@@ -13,6 +13,7 @@ tags:
 - Regular Variation 
 - Tauberian Theorems
 - Limit theorems
+- Confluence
 
 image:
   caption: 'Stochastic Volterra Integral Equations: Asymptotic Stationarity'
