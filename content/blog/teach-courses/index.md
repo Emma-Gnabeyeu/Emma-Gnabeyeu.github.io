@@ -1,7 +1,7 @@
 ---
 title: 👩🏼‍🏫 Outreach in mathematics
 summary: We present a new theory  of stationarity for a class of stochastic Volterra integral equations.
-date: 2025-09-01
+date: 2026-04-20
 math: true
 authors:
   - me
