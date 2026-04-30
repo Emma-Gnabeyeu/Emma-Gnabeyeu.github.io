@@ -7,8 +7,9 @@
 title: ''
 # Website URL
 baseURL: 'https://emma-gnabeyeu.github.io/' # https://example.com/
-## relativeURLs: true # added
-## canonifyURLs: false #added
+relativeURLs: true # added
+canonifyURLs: true #added
+uglyURLs: false
 ############################
 ## LANGUAGE
 ############################
@@ -64,3 +65,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+caches:
+  images:
+    dir: :cacheDir/images

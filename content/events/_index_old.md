@@ -1,8 +1,19 @@
 ---
 title: "Selected Recent & Upcoming Talks"
 type: page
+url: talk
+
 ---
-#url: talk
+
+#### 29 June -3 July 2026
+**13th World Congress of the Bachelier Finance Society** — University of Bologna, Bologna, Italy.
+- *On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related optimal Merton problem.* 
+---
+### June 2026
+**Bachelier Seminar** — Institut Henri Poincaré, Paris
+- *On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.*
+
+---
 ### December 2025  
 **Doctoral Seminar** — Sorbonne Université,  
 Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Paris, France.

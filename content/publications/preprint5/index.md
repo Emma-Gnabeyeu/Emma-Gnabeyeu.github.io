@@ -6,7 +6,13 @@ date: "2026-04-01"
 publication_types: ["article"]
 summary: "This paper investigates the asymptotic behavior of suitably time-modulated Hawkes processes with heavy-tailed kernels in a nearly unstable regime. "
 tags:
-- Affine Volterra Processes, Stochastic Control, Stochastic Operations Research, Backward Stochastic Differential Equations (BSDE), Riccati Equations, Functional Integral Equation, Fractional Differential Equations.
+- Affine Volterra Processes
+- Stochastic Control
+- Stochastic Operations Research
+- Backward Stochastic Differential Equations (BSDE)
+- Riccati Equations
+- Functional Integral Equation
+- Fractional Differential Equations
 
 featured: true
 

@@ -1,16 +1,21 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 👩🏼‍🏫 Outreach in mathematics
+summary: We present a new theory  of stationarity for a class of stochastic Volterra integral equations.
+date: 2025-09-01
 math: true
 authors:
   - me
 tags:
-  - Hugo
-  - HugoBlox Kit
-  - Markdown
+- Stochastic Volterra Processes 
+- Stochastic Differential Equations 
+- Fourier-Laplace Transforms
+- Jordan-Cauchy Residue Theorem
+- Regular Variation 
+- Tauberian Theorems
+- Limit theorems
+
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Stochastic Volterra Integral Equations: Asymptotic Stationarity'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -27,22 +32,18 @@ cover:
   icon:
     name: "✨"
 ---
-
+<!--
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+-->
+**Stochastic Volterra Integral Equations: Asymptotic Stationarity!**
 
 ## Citation
 
-Here's an example of citing a publication using the cite shortcode:
+Here are some publications associated to the topic:
 
-{{< cite page="/publications/preprint" view="citation" >}}
+{{< cite page="/publications/preprint3" view="citation" >}}
 
-You can also use the default view by omitting the view parameter:
-
-{{< cite page="/publications/conference-paper" >}}
+{{< cite page="/publications/journal-article" >}}
 
 ## Video
 
@@ -66,9 +67,6 @@ Videos may be added to a page by either placing them in your `assets/media/` med
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
     {{</* audio src="ambient-piano.mp3" */>}}
 
 Try it out:
@@ -89,44 +87,48 @@ renders as
 
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 
-## Math
+## Math block:
+<!--
+renders as
 
-HugoBlox Kit supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
+$$\begin{tikzpicture}[scale=1.1]\def\gammaVal{1.5}
+				\def\R{2.5}
+				\def\deltaVal{0.15}
+				\def\c{0.5}
+				\def\r{1/\R}
+				\draw[->] (-3, 0) -- (3, 0) node[right] {$\Re(z)$};
+				\draw[->] (0, -3) -- (0, 3) node[above] {$\Im(z)$};
+				\draw[blue, thick, ->] (\gammaVal, -\R) -- (\gammaVal, \R);
+				\node at (\gammaVal + 0.3, 0.2) {\small \textcolor{blue}{$\textit{Br}(\gamma, R)$}};
+				\draw[red, thick, ->] (\gammaVal, \R) -- (0, \R) node[midway, above] {\small $C^+$};
+				\draw[red, thick, <-] (\gammaVal, -\R) -- (0, -\R) node[midway, below] {\small $C^-$};
+				\draw[green, thick, ->] (0, \R) arc[start angle=90, end angle=175, radius=\R];
+				\draw[green, thick, <-] (0, -\R) arc[start angle=270, end angle=185, radius=\R];
+				\node at (-2.4, 2.1) {\small $C_R^+$};
+				\node at (-2.4, -2.1) {\small $C_R^-$};
+				\draw[orange, thick, <-] (-\R, \deltaVal) -- (-\c, \deltaVal);
+				\draw[orange, thick, ->] (-\R, -\deltaVal) -- (-\c, -\deltaVal);
+				\node at (-1.8, -0.35) {\small \textit{H}$(\delta, \tfrac{1}{R})$};
+				\draw[orange, thick] (-\c, \deltaVal) arc[start angle=160, end angle=-155, radius=\r];
+			\end{tikzpicture}
+			\captionof{figure}{Jordan contour \( \Gamma_{\gamma, \delta, R} \).}$$
+-->
 ```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
+$$	\begin{align*}
+		&\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
+		= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz 
+		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
+		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.
+	\end{align*}$$
 ```
 
 renders as
 
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
+$$\begin{align*}
+		&\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
+		= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz 
+		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
+		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.\end{align*}
 $$
 
 ## Code
@@ -158,4 +160,3 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌

@@ -1,7 +1,8 @@
 ---
 title: "On a Stationarity Theory for Stochastic Volterra Integral Equations"
 authors:
-- Emmanuel Gnabeyeu
+- me 
+# Emmanuel Gnabeyeu
 - Gilles Pagès
 author_notes:
 - "Equal contribution"
@@ -26,7 +27,14 @@ abstract:
 summary: This paper presents a new theory for the stationarity of stochastic Volterra integral equations.
 
 tags:
-- Source Themes
+- Stochastic Volterra Processes 
+- Stochastic Differential Equations 
+- Fourier-Laplace Transforms
+- Jordan-Cauchy Residue Theorem
+- Regular Variation 
+- Tauberian Theorems
+- Limit theorems
+
 featured: true 
 # put false if you want to not display in the selected pub first pages
 
@@ -65,10 +73,3 @@ projects: []
 slides: ""
 ---
 
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

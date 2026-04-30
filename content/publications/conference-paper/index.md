@@ -34,7 +34,12 @@ abstract: The volatility fitting is one of the core problems in the equity deriv
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Deep Reinforcement Learning (DRL), Continuous State Action Spaces, Stochastic and Continuous Control,  Actor-Critic, Sequential Decision Making and Deep Reinforcement Learning in Stochastic Environment.
+  - Deep Reinforcement Learning (DRL)
+  - Continuous State Action Spaces 
+  - Stochastic and Continuous Control
+  - Actor-Critic
+  - Sequential Decision Making
+  - Deep Reinforcement Learning in Stochastic Environment
 
 # Display this page in the Featured widget?
 featured: true

@@ -7,7 +7,13 @@ publication_types: ["article"]
 summary: " "
 
 tags:
-- Affine Volterra Processes, Stochastic Control, Martingale Optimality Principle, Backward Stochastic Differential Equations (BSDE), Fractional Differential Equations, Riccati Equations, Functional Integral Equation.
+- Affine Volterra Processes
+- Stochastic Control
+- Martingale Optimality Principle
+- Backward Stochastic Differential Equations (BSDE)
+- Fractional Differential Equations
+- Riccati Equations
+- Functional Integral Equation
 
 featured: true
 

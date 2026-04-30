@@ -18,7 +18,13 @@ abstract:
 summary: "This paper presents a new theory for the stationarity of stochastic Volterra integral equations."
 
 tags:
-- Affine Volterra Processes, Stochastic Differential Equations, Fractional Calculus, Functional Integral Equation, Fourier-Laplace Transforms, Dini Theorem, Limit Theorems.
+- Affine Volterra Processes 
+- Stochastic Differential Equations 
+- Fractional Calculus 
+- Functional Integral Equation
+- Fourier-Laplace Transforms 
+- Dini Theorem
+- Limit Theorems
 
 featured: true
 

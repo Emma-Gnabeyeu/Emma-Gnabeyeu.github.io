@@ -14,7 +14,7 @@ main:
     url: /events/           # Update this to the full URL for your talks page
     weight: 12
   - name: News
-    url: /courses/  # /#news
+    url: /blog/  # /#news blog /courses/
     weight: 13
   - name: Experience
     url: /experience/

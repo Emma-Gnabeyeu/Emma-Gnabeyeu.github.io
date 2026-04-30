@@ -9,7 +9,13 @@ publication_types: ["article"]
 summary: "The aim of this paper is to provide a comprehensive analysis of the path-dependent Stochastic Volterra Integral Equations (SVIEs), in which both the drift and the diffusion coefficients are allowed to depend on the whole trajectory of the process up to the current time.
 "
 tags:
-- Path-dependent Stochastic Processes, Volterra Integral Equations, Stochastic Differential Equations, Integrated Euler Scheme, Strong Convergence Rate, Fractional Kernels.
+- Path-dependent Stochastic Processes
+- Volterra Integral Equations
+- Stochastic Differential Equations
+- Integrated Euler Scheme
+- Strong Convergence Rate
+- Fractional Kernels
+
 featured: true
 
 hugoblox:
