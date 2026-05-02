@@ -20,7 +20,7 @@ featured: true
 
 hugoblox:
   ids:
-    arxiv: 
+    arxiv: 2604.01300
 
 links:
 # - type: pdf

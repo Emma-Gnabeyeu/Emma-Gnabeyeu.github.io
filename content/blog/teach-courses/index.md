@@ -48,14 +48,13 @@ Here are some publications associated to the topic:
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
 **Youtube**:
 
-    {{</* youtube D2vj0WcvH5c */>}}
+    {{</* youtube g35U_lYtZZE */>}}
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube g35U_lYtZZE >}}
 
+<!--
 **Bilibili**:
 
     {{</* bilibili BV1WV4y1r7DF */>}}
@@ -87,7 +86,7 @@ You found me!
 renders as
 
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
+-->
 ## Math block:
 <!--
 renders as
@@ -132,6 +131,7 @@ $$\begin{align*}
 		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.\end{align*}
 $$
 
+<!--
 ## Code
 
 HugoBlox Kit utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
@@ -160,4 +160,4 @@ data.head()
 renders as
 
 {{< icon name="python" >}} Python
-
+-->

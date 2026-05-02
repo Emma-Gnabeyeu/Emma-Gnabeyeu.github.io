@@ -10,7 +10,7 @@ sections:
   # === Biography / Identity ===
   - block: resume-biography-3
     content:
-      username: me
+      username: me # profile: me # === username: me
       text: ''
       button:
         text: Download CV
@@ -33,10 +33,10 @@ sections:
   - block: resume-awards
     content:
       title: Awards
-      username: me
+      username: me # profile: me # ===username: me
       items:
-        - title: Prix du meilleur mémoire de Master de Finance Quantitative
-          description: Prix décerné par Natixis pour un mémoire exceptionnel en finance quantitative.
+        - title: First Prize – 2025 Best European Master's Thesis in Quantitative Finance.
+          description: "First Prize for the 2025 edition of the best European master's thesis in Mathematical Finance: Award granted for an outstanding master’s thesis."
         - link: "https://natixis.groupebpce.com/fr/articles/prix-du-meilleur-memoire-de-master-de-finance-quantitative/"
 
   # === Research overview ===

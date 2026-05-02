@@ -1,16 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selected Recent &amp; Upcoming Talks |</title><link>https://emma-gnabeyeu.github.io/events/</link><atom:link href="https://emma-gnabeyeu.github.io/events/index.xml" rel="self" type="application/rss+xml"/><description>Selected Recent &amp; Upcoming Talks</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://emma-gnabeyeu.github.io/events/featured.jpg</url><title>Selected Recent &amp; Upcoming Talks</title><link>https://emma-gnabeyeu.github.io/events/</link></image><item><title>Selected Recent &amp; Upcoming Talks</title><link>https://emma-gnabeyeu.github.io/talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://emma-gnabeyeu.github.io/talk/</guid><description>&lt;h4 id="29-june--3-july-2026"&gt;29 June -3 July 2026&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Recent &amp; Upcoming Talks | </title>
+    <link>http://localhost:1313/events/</link>
+      <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selected Recent &amp; Upcoming Talks</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/events/featured.jpg</url>
+      <title>Selected Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/events/</link>
+    </image>
+    
+    <item>
+      <title>Selected Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/</guid>
+      <description>&lt;h4 id=&#34;29-june--3-july-2026&#34;&gt;29 June -3 July 2026&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;13th World Congress of the Bachelier Finance Society&lt;/strong&gt; — University of Bologna, Bologna, Italy.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related optimal Merton problem.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id="june-2026"&gt;June 2026&lt;/h3&gt;
+&lt;h3 id=&#34;june-2026&#34;&gt;June 2026&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Bachelier Seminar&lt;/strong&gt; — Institut Henri Poincaré, Paris&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id="december-2025"&gt;December 2025&lt;/h3&gt;
+&lt;h3 id=&#34;december-2025&#34;&gt;December 2025&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Doctoral Seminar&lt;/strong&gt; — Sorbonne Université,&lt;br&gt;
 Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Paris, France.&lt;/p&gt;
 &lt;ul&gt;
@@ -18,7 +37,7 @@ Laboratoire de Probabilités, Statistique et Modélisation (LPSM), Paris, France
 Microstructural Foundations and Weak Stationarity Theory.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id="october-2025"&gt;October 2025&lt;/h3&gt;
+&lt;h3 id=&#34;october-2025&#34;&gt;October 2025&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Natixis Foundation for Research and Innovation Awards Ceremony&lt;br&gt;
 for Best Master&amp;rsquo;s Thesis in Quantitative Finance&lt;/strong&gt; —&lt;br&gt;
 Sky Garden (BPCE Tower), Paris, France.&lt;/p&gt;
@@ -26,10 +45,15 @@ Sky Garden (BPCE Tower), Paris, France.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;A Reinforcement Learning Perspective on Exotics and Flow Equity Derivatives.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id="july-2025"&gt;July 2025&lt;/h3&gt;
+&lt;h3 id=&#34;july-2025&#34;&gt;July 2025&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;5th Barcelona Summer School of Stochastic Analysis and Quantitative Finance&lt;/strong&gt; —&lt;br&gt;
 Centre de Recerca Matemàtica, Barcelona, Spain.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;On a Stationarity Theory for Stochastic Volterra Integral Equations&lt;br&gt;
 with Affine Drift: Finite-Time Functional Weak Asymptotics and Applications.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

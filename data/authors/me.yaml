@@ -13,10 +13,11 @@ postnominals:
 status:
   icon: "🧮"
 role: Researcher in Mathematics and Applications
+
 bio: |
   Hi, welcome to my website! I am a Research Scientist in Mathematics working on stochastic analysis, optimal control, diffusion models, and statistics, with applications to mathematical finance and machine learning.
   
-  Prior to this, I studied at École Polytechnique, where I earned an engineering degree with a major in mathematics. I also obtained a Master’s degree in Probability and Finance from IP Paris, jointly with Sorbonne Université, graduating with highest honors (mention Très Bien) and received a bachelor’s degree in Philosophy from Université Paris Nanterre.
+  Prior to this, I studied at [École Polytechnique](https://www.polytechnique.edu/), École Polytechnique, where I earned an engineering degree with a major in mathematics. I also obtained a Master’s degree in Probability and Finance from IP Paris, jointly with Sorbonne Université, graduating with highest honors (mention Très Bien) and received a bachelor’s degree in Philosophy from Université Paris Nanterre.
    
 affiliations:
   - name: Sorbonne Université
@@ -31,7 +32,7 @@ affiliations:
     # address_icon: "fas fa-map-marker-alt"  # Icon for location/address
     # office_icon: "fas fa-door-closed"     # Icon for office
 
-links:
+links: # social
   - icon: at-symbol
     url: mailto:emmanuel.gnabeyeu@sorbonne-universite.fr
     label: E-mail Me
@@ -52,7 +53,7 @@ interests:
   # - Stochastic Optimization for Machine Learning
 
 education:
-  - degree: Doctor of Philosophy in Mathematics
+  - degree: Doctor of Philosophy(PhD) in Mathematics
     institution: Ecole Doctorale Sciences Mathematiques de Paris Centre
     url: https://ed386.sorbonne-universite.fr/fr/index.html
     start: 2024

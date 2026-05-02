@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emmanuel Gnabeyeu |</title><link>https://emma-gnabeyeu.github.io/authors/emmanuel-gnabeyeu/</link><atom:link href="https://emma-gnabeyeu.github.io/authors/emmanuel-gnabeyeu/index.xml" rel="self" type="application/rss+xml"/><description>Emmanuel Gnabeyeu</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><item><title>On Inhomogeneous Affine Volterra Processes: Stationarity and Applications to the Volterra Heston Model</title><link>https://emma-gnabeyeu.github.io/publications/preprint/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://emma-gnabeyeu.github.io/publications/preprint/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emmanuel Gnabeyeu | </title>
+    <link>http://localhost:1313/authors/emmanuel-gnabeyeu/</link>
+      <atom:link href="http://localhost:1313/authors/emmanuel-gnabeyeu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emmanuel Gnabeyeu</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>On Inhomogeneous Affine Volterra Processes: Stationarity and Applications to the Volterra Heston Model</title>
+      <link>http://localhost:1313/publications/preprint/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

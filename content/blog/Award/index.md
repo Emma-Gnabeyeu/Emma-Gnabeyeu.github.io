@@ -41,7 +41,7 @@ Below is the research paper associated with this award:
 
 ## Video
 
-Here I share the Full ceremony replay:
+Here I share the Full ceremony replay: | [Images of the ceremony](/uploads/10303CRMBestThesis.pdf) |
 
 **Dailymotion**:
 <iframe frameborder="0" width="670" height="400" src="https://geo.dailymotion.com/player/xh36y.html?video=k3bKFXMZ7XNtD6E3r5U" allowfullscreen></iframe>

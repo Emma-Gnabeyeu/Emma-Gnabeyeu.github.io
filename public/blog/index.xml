@@ -1,144 +1,921 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog and Outreach |</title><link>https://emma-gnabeyeu.github.io/blog/</link><atom:link href="https://emma-gnabeyeu.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog and Outreach</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://emma-gnabeyeu.github.io/media/icon_hu_da05098ef60dc2e7.png</url><title>Blog and Outreach</title><link>https://emma-gnabeyeu.github.io/blog/</link></image><item><title>👩🏼‍🏫 Awards and Certificates</title><link>https://emma-gnabeyeu.github.io/blog/award/</link><pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate><guid>https://emma-gnabeyeu.github.io/blog/award/</guid><description>&lt;h2 id="-award-2025-best-masters-thesis-in-mathematical-finance"&gt;🏆 Award: 2025 Best Master’s Thesis in Mathematical Finance.&lt;/h2&gt;
-&lt;p&gt;Recipient of the 2025 Natixis Award for Best Master’s Thesis in Mathematical Finance, awarded by the
-. |
-|&lt;/p&gt;
-&lt;h2 id="related-work"&gt;Related Work&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog and Outreach | </title>
+    <link>http://localhost:1313/blog/</link>
+      <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog and Outreach</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Blog and Outreach</title>
+      <link>http://localhost:1313/blog/</link>
+    </image>
+    
+    <item>
+      <title>👩🏼‍🏫 Outreach in mathematics</title>
+      <link>http://localhost:1313/blog/teach-courses/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/teach-courses/</guid>
+      <description>&lt;!--
+[HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
+--&gt;
+&lt;p&gt;&lt;strong&gt;Stochastic Volterra Integral Equations: Asymptotic Stationarity!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Here are some publications associated to the topic:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    &lt;span &gt;&lt;a href=&#34;../authors/me/&#34;&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Gilles Pagès&lt;/span&gt;
+  &lt;/span&gt;
+  (2026).
+  &lt;a href=&#34;../publications/preprint3/&#34; class=&#34;underline&#34;&gt;On Path-dependent Volterra Integral Equations: Strong Well-posedness and Stochastic Numerics.&lt;/a&gt;.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-05585805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/PathDependentSVIEs_Numerics.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5&#34;/&gt;&lt;/svg&gt;
+        Code
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/preprint3/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://arxiv.org/abs/2603.20996&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        Preprint
+      &lt;/a&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    &lt;span &gt;&lt;a href=&#34;../authors/me/&#34;&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+          &lt;button
+            @mouseenter=&#34;tooltip = true&#34;
+            @mouseleave=&#34;tooltip = false&#34;
+            @click=&#34;tooltip = !tooltip&#34;
+            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
+            data-tooltip=&#34;Equal contribution&#34;
+            aria-label=&#34;Equal contribution&#34;
+            type=&#34;button&#34;
+          &gt;
+            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
+            &lt;/svg&gt;
+          &lt;/button&gt;
+          &lt;div
+            x-show=&#34;tooltip&#34;
+            x-transition:enter=&#34;transition ease-out duration-200&#34;
+            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
+            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave=&#34;transition ease-in duration-150&#34;
+            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
+            @click.away=&#34;tooltip = false&#34;
+            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
+            x-cloak
+          &gt;
+            Equal contribution
+            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/span&gt;, &lt;span &gt;Gilles Pagès&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+          &lt;button
+            @mouseenter=&#34;tooltip = true&#34;
+            @mouseleave=&#34;tooltip = false&#34;
+            @click=&#34;tooltip = !tooltip&#34;
+            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
+            data-tooltip=&#34;Equal contribution&#34;
+            aria-label=&#34;Equal contribution&#34;
+            type=&#34;button&#34;
+          &gt;
+            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
+            &lt;/svg&gt;
+          &lt;/button&gt;
+          &lt;div
+            x-show=&#34;tooltip&#34;
+            x-transition:enter=&#34;transition ease-out duration-200&#34;
+            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
+            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave=&#34;transition ease-in duration-150&#34;
+            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
+            @click.away=&#34;tooltip = false&#34;
+            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
+            x-cloak
+          &gt;
+            Equal contribution
+            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/span&gt;
+  &lt;/span&gt;
+  (2025).
+  &lt;a href=&#34;../publications/journal-article/&#34; class=&#34;underline&#34;&gt;On a Stationarity Theory for Stochastic Volterra Integral Equations&lt;/a&gt;.
+  SPA.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-05585827&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/StabilizedVolterraIntegralEquations.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5&#34;/&gt;&lt;/svg&gt;
+        Code
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;../uploads/EmmanuelG_StationaritySVIEs_CRMBarcelona.pdf&#34;  &gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6&#34;/&gt;&lt;/svg&gt;
+        Slides
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/journal-article/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://arxiv.org/abs/2511.03474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        Preprint
+      &lt;/a&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube g35U_lYtZZE &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g35U_lYtZZE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;!--
+**Bilibili**:
+
+    {{&lt; bilibili BV1WV4y1r7DF &gt;}}
+
+
+**Video file**
+
+Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page&#39;s folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+
+    {{&lt; video src=&#34;my_video.mp4&#34; controls=&#34;yes&#34; &gt;}}
+
+## Podcast
+    {{&lt; audio src=&#34;ambient-piano.mp3&#34; &gt;}}
+
+Try it out:
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;../blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+
+## Test students
+
+Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+
+```markdown
+{{&lt; spoiler text=&#34;👉 Click to view the solution&#34; &gt;}}
+You found me!
+{{&lt; /spoiler &gt;}}
+```
+
+renders as
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+--&gt;
+&lt;h2 id=&#34;math-block&#34;&gt;Math block:&lt;/h2&gt;
+&lt;!--
+renders as
+
+$$\begin{tikzpicture}[scale=1.1]\def\gammaVal{1.5}
+				\def\R{2.5}
+				\def\deltaVal{0.15}
+				\def\c{0.5}
+				\def\r{1/\R}
+				\draw[-&gt;] (-3, 0) -- (3, 0) node[right] {$\Re(z)$};
+				\draw[-&gt;] (0, -3) -- (0, 3) node[above] {$\Im(z)$};
+				\draw[blue, thick, -&gt;] (\gammaVal, -\R) -- (\gammaVal, \R);
+				\node at (\gammaVal + 0.3, 0.2) {\small \textcolor{blue}{$\textit{Br}(\gamma, R)$}};
+				\draw[red, thick, -&gt;] (\gammaVal, \R) -- (0, \R) node[midway, above] {\small $C^+$};
+				\draw[red, thick, &lt;-] (\gammaVal, -\R) -- (0, -\R) node[midway, below] {\small $C^-$};
+				\draw[green, thick, -&gt;] (0, \R) arc[start angle=90, end angle=175, radius=\R];
+				\draw[green, thick, &lt;-] (0, -\R) arc[start angle=270, end angle=185, radius=\R];
+				\node at (-2.4, 2.1) {\small $C_R^+$};
+				\node at (-2.4, -2.1) {\small $C_R^-$};
+				\draw[orange, thick, &lt;-] (-\R, \deltaVal) -- (-\c, \deltaVal);
+				\draw[orange, thick, -&gt;] (-\R, -\deltaVal) -- (-\c, -\deltaVal);
+				\node at (-1.8, -0.35) {\small \textit{H}$(\delta, \tfrac{1}{R})$};
+				\draw[orange, thick] (-\c, \deltaVal) arc[start angle=160, end angle=-155, radius=\r];
+			\end{tikzpicture}
+			\captionof{figure}{Jordan contour \( \Gamma_{\gamma, \delta, R} \).}$$
+--&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;	&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;		&amp;amp;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{z &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\in&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbb&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{C} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\setminus&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\}&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;: z^&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{Res}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\cdot&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;		&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\oint&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\Gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\delta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, R}} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;		&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\textit&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{Br}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, R&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{C^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;		&amp;amp;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\hspace&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;cm} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{C_R^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\textit&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{H}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\delta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{R}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz  &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{C_R^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; i}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\int&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{C^&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} J_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\alpha&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t, z&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; dz.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;	&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+$$\begin{align*}
+		&amp;\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
+		= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz 
+		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
+		&amp;\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.\end{align*}
+$$&lt;!--
+## Code
+
+HugoBlox Kit utilises Hugo&#39;s Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+
+
+    ```python
+    import pandas as pd
+    data = pd.read_csv(&#34;data.csv&#34;)
+    data.head()
+    ```
+
+renders as
+
+```python
+import pandas as pd
+data = pd.read_csv(&#34;data.csv&#34;)
+data.head()
+```
+
+## Inline Images
+
+```go
+{{&lt; icon name=&#34;python&#34; &gt;}} Python
+```
+
+renders as
+
+
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;span style=&#34;height: 1em; transform: translateY(0.1em);&#34;&gt;python&lt;/span&gt;
+  &lt;/span&gt; Python
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏼‍🏫 Awards and Certificates</title>
+      <link>http://localhost:1313/blog/award/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/award/</guid>
+      <description>&lt;h2 id=&#34;-award-2025-best-european-masters-thesis-in-mathematical-finance&#34;&gt;🏆 Award: 2025 Best European Master’s Thesis in Mathematical Finance.&lt;/h2&gt;
+&lt;p&gt;Recipient of the 2025 Natixis Award for Best Master’s Thesis in Mathematical Finance, awarded by the 
+. | 
+ |&lt;/p&gt;
+&lt;h2 id=&#34;related-work&#34;&gt;Related Work&lt;/h2&gt;
 &lt;p&gt;Below is the research paper associated with this award:&lt;/p&gt;
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem"&gt;
-&lt;i class="far fa-file-alt pub-icon" aria-hidden="true"&gt;&lt;/i&gt;
-&lt;span class="article-metadata li-cite-author"&gt;
-&lt;span &gt;&lt;a href="../authors/me/"&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
-&lt;button
-@mouseenter="tooltip = true"
-@mouseleave="tooltip = false"
-@click="tooltip = !tooltip"
-class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
-data-tooltip="Equal contribution"
-aria-label="Equal contribution"
-type="button"
-&gt;
-&lt;svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"&gt;
-&lt;path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"&gt;&lt;/path&gt;
-&lt;/svg&gt;
-&lt;/button&gt;
-&lt;div
-x-show="tooltip"
-x-transition:enter="transition ease-out duration-200"
-x-transition:enter-start="opacity-0 transform scale-95"
-x-transition:enter-end="opacity-100 transform scale-100"
-x-transition:leave="transition ease-in duration-150"
-x-transition:leave-start="opacity-100 transform scale-100"
-x-transition:leave-end="opacity-0 transform scale-95"
-@click.away="tooltip = false"
-class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
-x-cloak
-&gt;
-Equal contribution
-&lt;div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    &lt;span &gt;&lt;a href=&#34;../authors/me/&#34;&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+          &lt;button
+            @mouseenter=&#34;tooltip = true&#34;
+            @mouseleave=&#34;tooltip = false&#34;
+            @click=&#34;tooltip = !tooltip&#34;
+            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
+            data-tooltip=&#34;Equal contribution&#34;
+            aria-label=&#34;Equal contribution&#34;
+            type=&#34;button&#34;
+          &gt;
+            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
+            &lt;/svg&gt;
+          &lt;/button&gt;
+          &lt;div
+            x-show=&#34;tooltip&#34;
+            x-transition:enter=&#34;transition ease-out duration-200&#34;
+            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
+            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave=&#34;transition ease-in duration-150&#34;
+            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
+            @click.away=&#34;tooltip = false&#34;
+            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
+            x-cloak
+          &gt;
+            Equal contribution
+            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;../authors/omar-karkar/&#34;&gt;Omar Karkar&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+          &lt;button
+            @mouseenter=&#34;tooltip = true&#34;
+            @mouseleave=&#34;tooltip = false&#34;
+            @click=&#34;tooltip = !tooltip&#34;
+            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
+            data-tooltip=&#34;Equal contribution&#34;
+            aria-label=&#34;Equal contribution&#34;
+            type=&#34;button&#34;
+          &gt;
+            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
+            &lt;/svg&gt;
+          &lt;/button&gt;
+          &lt;div
+            x-show=&#34;tooltip&#34;
+            x-transition:enter=&#34;transition ease-out duration-200&#34;
+            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
+            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave=&#34;transition ease-in duration-150&#34;
+            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
+            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
+            @click.away=&#34;tooltip = false&#34;
+            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
+            x-cloak
+          &gt;
+            Equal contribution
+            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;../authors/imad-idboufous/&#34;&gt;Imad Idboufous&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2024).
+  &lt;a href=&#34;../publications/conference-paper/&#34; class=&#34;underline&#34;&gt;Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach&lt;/a&gt;.
+  In &lt;em&gt;IJCNN&lt;/em&gt;.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991699&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;../uploads/PresentationVolFitting.pdf&#34;  &gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6&#34;/&gt;&lt;/svg&gt;
+        Slides
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;../uploads/Poster_RL_for_vol_IJCNN2025-_.pdf&#34;  &gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0&#34;/&gt;&lt;/svg&gt;
+        Poster
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/conference-paper/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
 &lt;/div&gt;
-&lt;/span&gt;, &lt;span &gt;&lt;a href="../authors/omar-karkar/"&gt;Omar Karkar&lt;/a&gt;&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
-&lt;button
-@mouseenter="tooltip = true"
-@mouseleave="tooltip = false"
-@click="tooltip = !tooltip"
-class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
-data-tooltip="Equal contribution"
-aria-label="Equal contribution"
-type="button"
-&gt;
-&lt;svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"&gt;
-&lt;path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"&gt;&lt;/path&gt;
-&lt;/svg&gt;
-&lt;/button&gt;
-&lt;div
-x-show="tooltip"
-x-transition:enter="transition ease-out duration-200"
-x-transition:enter-start="opacity-0 transform scale-95"
-x-transition:enter-end="opacity-100 transform scale-100"
-x-transition:leave="transition ease-in duration-150"
-x-transition:leave-start="opacity-100 transform scale-100"
-x-transition:leave-end="opacity-0 transform scale-95"
-@click.away="tooltip = false"
-class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
-x-cloak
-&gt;
-Equal contribution
-&lt;div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/span&gt;, &lt;span &gt;&lt;a href="../authors/imad-idboufous/"&gt;Imad Idboufous&lt;/a&gt;&lt;/span&gt;
-&lt;/span&gt;
-(2024).
-&lt;a href="../publications/conference-paper/" class="underline"&gt;Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach&lt;/a&gt;.
-In &lt;em&gt;IJCNN&lt;/em&gt;.
-&lt;div class="flex flex-wrap space-x-3"&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991699" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;
-PDF
-&lt;/a&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="../uploads/PresentationVolFitting.pdf" &gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/&gt;&lt;/svg&gt;
-Slides
-&lt;/a&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="../uploads/Poster_RL_for_vol_IJCNN2025-_.pdf" &gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0"/&gt;&lt;/svg&gt;
-Poster
-&lt;/a&gt;
-&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publications/conference-paper/cite.bib"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/&gt;&lt;/svg&gt;
-&lt;span&gt;Cite&lt;/span&gt;
-&lt;/button&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="video"&gt;Video&lt;/h2&gt;
-&lt;p&gt;Here I share the Full ceremony replay:&lt;/p&gt;
+
+
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Here I share the Full ceremony replay: | 
+ |&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dailymotion&lt;/strong&gt;:&lt;/p&gt;
-&lt;iframe frameborder="0" width="670" height="400" src="https://geo.dailymotion.com/player/xh36y.html?video=k3bKFXMZ7XNtD6E3r5U" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;0&#34; width=&#34;670&#34; height=&#34;400&#34; src=&#34;https://geo.dailymotion.com/player/xh36y.html?video=k3bKFXMZ7XNtD6E3r5U&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Videos Videos of some annimation:&lt;/p&gt;
 &lt;!--
-may be added to a page by either placing them in your `assets/media/` media library
+may be added to a page by either placing them in your `assets/media/` media library  
 --&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Training Skew&lt;/th&gt;
-&lt;th&gt;Volatility Fitting&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;div style="width:100%; max-width:720px; height:520px; margin:auto; overflow:hidden; display:flex; align-items:center; justify-content:center;"&gt;
-&lt;video controls &gt;
-&lt;source src="../media/TrainingSkew_RL_animation.mp4" type="video/mp4"&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Training Skew&lt;/th&gt;
+          &lt;th&gt;Volatility Fitting&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;div style=&#34;width:100%; max-width:720px; height:520px; margin:auto; overflow:hidden; display:flex; align-items:center; justify-content:center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;../media/TrainingSkew_RL_animation.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;&lt;div style="width:90%; max-width:520px; height:520px; margin:auto; overflow:hidden; display:flex; align-items:center; justify-content:center;"&gt;
-&lt;video controls &gt;
-&lt;source src="../media/vol_fitting_animation_equity.mp4" type="video/mp4"&gt;
+          &lt;td&gt;&lt;div style=&#34;width:90%; max-width:520px; height:520px; margin:auto; overflow:hidden; display:flex; align-items:center; justify-content:center;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;../media/vol_fitting_animation_equity.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;/div&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id="podcast"&gt;Podcast&lt;/h2&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
 &lt;audio controls &gt;
-&lt;source src="../blog/award/ambient-piano.mp3" type="audio/mpeg"&gt;
+  &lt;source src=&#34;../blog/award/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
-&lt;h2 id="math-block"&gt;Math block:&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-latex" data-lang="latex"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;\begin&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;itemize&lt;span class="nb"&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;\item&lt;/span&gt; &lt;span class="k"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;red&lt;span class="nb"&gt;}{&lt;/span&gt;Action network:&lt;span class="nb"&gt;}&lt;/span&gt; DPG= &lt;span class="k"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;blue&lt;span class="nb"&gt;}{&lt;/span&gt;Deep Policy gradient&lt;span class="nb"&gt;}&lt;/span&gt; &lt;span class="c"&gt;% $ J = \mathbb{E}[R_{s_{t}}] ==== $ (\textbf{Proof:} Cf. Report)
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;itemize&lt;span class="nb"&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="sb"&gt;$$&lt;/span&gt;&lt;span class="nb"&gt; a_t &lt;/span&gt;&lt;span class="nv"&gt;\sim&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{red}{&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt;^{D} &lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_t,&lt;/span&gt;&lt;span class="nv"&gt;\theta&lt;/span&gt;&lt;span class="nb"&gt;^{&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;} &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\epsilon&lt;/span&gt;&lt;span class="nb"&gt;_t &lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\text&lt;/span&gt;&lt;span class="nb"&gt;{with} &lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{brown}{&lt;/span&gt;&lt;span class="nv"&gt;\epsilon&lt;/span&gt;&lt;span class="nb"&gt;_t &lt;/span&gt;&lt;span class="nv"&gt;\sim&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\mathcal&lt;/span&gt;&lt;span class="nb"&gt;{N}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="nb"&gt;, &lt;/span&gt;&lt;span class="nv"&gt;\sigma&lt;/span&gt;&lt;span class="nb"&gt;_n^&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nb"&gt; I_K&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;} &lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\text&lt;/span&gt;&lt;span class="nb"&gt;{and} &lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\sigma&lt;/span&gt;&lt;span class="nb"&gt;_n &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\text&lt;/span&gt;&lt;span class="nb"&gt;{max}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;\sigma&lt;/span&gt;&lt;span class="nb"&gt;_&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{n}{N} &lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;^{&lt;/span&gt;&lt;span class="m"&gt;4&lt;/span&gt;&lt;span class="nb"&gt;},&lt;/span&gt;&lt;span class="nv"&gt;\sigma&lt;/span&gt;&lt;span class="nb"&gt;_{&lt;/span&gt;&lt;span class="nv"&gt;\text&lt;/span&gt;&lt;span class="nb"&gt;{min}}&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="s"&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;\begin&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;itemize&lt;span class="nb"&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;\item&lt;/span&gt; &lt;span class="k"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;red&lt;span class="nb"&gt;}{&lt;/span&gt;Critic network:&lt;span class="nb"&gt;}&lt;/span&gt; &lt;span class="k"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;blue&lt;span class="nb"&gt;}{&lt;/span&gt;Q-Learning and Bellman equation.&lt;span class="nb"&gt;}&lt;/span&gt; &lt;span class="c"&gt;% $ Q_{\theta^{Q}}(s_{t_{i}},a_{t_{i}}) = - \sum_{k=t_i}^{T} \mathbb{E}_{(s_{k},a_{k})\sim \rho_\pi} [ \gamma^{(k-t_i)} \xi (\vec{\theta}_{t_{k}} )] $
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;itemize&lt;span class="nb"&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="s"&gt;$&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\begin&lt;/span&gt;&lt;span class="nb"&gt;{cases} R_{t}&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;\sum&lt;/span&gt;&lt;span class="nb"&gt;_{i&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt;t}^{T}&lt;/span&gt;&lt;span class="nv"&gt;\gamma&lt;/span&gt;&lt;span class="nb"&gt;^{&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;i&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt; t&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;}r&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_{i},a_{i}&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nv"&gt;\\&lt;/span&gt;&lt;span class="nb"&gt;Q^{&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_{t},a_{t}&lt;/span&gt;&lt;span class="o"&gt;)=&lt;/span&gt;&lt;span class="nv"&gt;\mathbb&lt;/span&gt;&lt;span class="nb"&gt;{E}&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nb"&gt;R_{t}|s_{t},a_{t}&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="nb"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nv"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{cases} &lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\Rightarrow&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\textcolor&lt;/span&gt;&lt;span class="nb"&gt;{red}{L&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;\theta&lt;/span&gt;&lt;span class="nb"&gt;^{Q}&lt;/span&gt;&lt;span class="o"&gt;)=&lt;/span&gt;&lt;span class="nv"&gt;\mathbb&lt;/span&gt;&lt;span class="nb"&gt;{E}&lt;/span&gt;&lt;span class="o"&gt;[(&lt;/span&gt;&lt;span class="nb"&gt;Q^{&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_{t},a_{t}; &lt;/span&gt;&lt;span class="nv"&gt;\theta&lt;/span&gt;&lt;span class="nb"&gt;^{Q}&lt;/span&gt;&lt;span class="o"&gt;)-[&lt;/span&gt;&lt;span class="nb"&gt;r&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_{t},a_{t}&lt;/span&gt;&lt;span class="o"&gt;)+&lt;/span&gt;&lt;span class="nv"&gt;\gamma&lt;/span&gt;&lt;span class="nb"&gt; Q^{&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;s_{t&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;},a_{t&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;};&lt;/span&gt;&lt;span class="nv"&gt;\theta&lt;/span&gt;&lt;span class="nb"&gt;^{Q}&lt;/span&gt;&lt;span class="o"&gt;)])&lt;/span&gt;&lt;span class="nb"&gt;^{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="s"&gt;$&lt;/span&gt;
+
+&lt;h2 id=&#34;math-block&#34;&gt;Math block:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		&lt;span class=&#34;k&#34;&gt;\item&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;red&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Action network:&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; DPG=  &lt;span class=&#34;k&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;blue&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Deep Policy gradient&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;c&#34;&gt;% $ J = \mathbb{E}[R_{s_{t}}] ==== $ (\textbf{Proof:} Cf. Report)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; a_t &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sim&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{red}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{D} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_t,&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\theta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\epsilon&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_t &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{with} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{brown}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\epsilon&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_t &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sim&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathcal&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{N}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sigma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_n^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; I_K&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{and} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sigma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_n &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{max}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sigma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{n}{N} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;},&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sigma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{min}}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		&lt;span class=&#34;k&#34;&gt;\item&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;red&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Critic network:&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;blue&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Q-Learning and Bellman equation.&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;c&#34;&gt;% $ Q_{\theta^{Q}}(s_{t_{i}},a_{t_{i}}) =  - \sum_{k=t_i}^{T} \mathbb{E}_{(s_{k},a_{k})\sim \rho_\pi} [ \gamma^{(k-t_i)} \xi (\vec{\theta}_{t_{k}} )] $             
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;itemize&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases} R_{t}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;t}^{T}&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}r&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_{i},a_{i}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Q^{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_{t},a_{t}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbb&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{E}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;R_{t}|s_{t},a_{t}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\quad&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\Rightarrow&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\textcolor&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{red}{L&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\theta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{Q}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbb&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{E}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Q^{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_{t},a_{t}; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\theta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{Q}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)-[&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;r&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_{t},a_{t}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)+&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; Q^{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\pi&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;s_{t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;},a_{t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;};&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\theta&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{Q}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)])&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
 $$
 \textcolor{red}{\text{Action network:}} \quad \text{DPG} = \textcolor{blue}{\text{Deep Policy Gradient}}
@@ -165,215 +942,8 @@ Q^{\pi}(s_{t},a_{t}; \theta^{Q})-
 \right)^{2}
 \right]
 }
-$$</description></item><item><title>👩🏼‍🏫 Outreach in mathematics</title><link>https://emma-gnabeyeu.github.io/blog/teach-courses/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://emma-gnabeyeu.github.io/blog/teach-courses/</guid><description>&lt;!--
-[HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
---&gt;
-&lt;p&gt;&lt;strong&gt;Stochastic Volterra Integral Equations: Asymptotic Stationarity!&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id="citation"&gt;Citation&lt;/h2&gt;
-&lt;p&gt;Here are some publications associated to the topic:&lt;/p&gt;
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem"&gt;
-&lt;i class="far fa-file-alt pub-icon" aria-hidden="true"&gt;&lt;/i&gt;
-&lt;span class="article-metadata li-cite-author"&gt;
-&lt;span &gt;&lt;a href="../authors/me/"&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Gilles Pagès&lt;/span&gt;
-&lt;/span&gt;
-(2026).
-&lt;a href="../publications/preprint3/" class="underline"&gt;On Path-dependent Volterra Integral Equations: Strong Well-posedness and Stochastic Numerics.&lt;/a&gt;.
-&lt;div class="flex flex-wrap space-x-3"&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-05585805" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;
-PDF
-&lt;/a&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/PathDependentSVIEs_Numerics.ipynb" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/&gt;&lt;/svg&gt;
-Code
-&lt;/a&gt;
-&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publications/preprint3/cite.bib"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/&gt;&lt;/svg&gt;
-&lt;span&gt;Cite&lt;/span&gt;
-&lt;/button&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://arxiv.org/abs/2603.20996" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;
-Preprint
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem"&gt;
-&lt;i class="far fa-file-alt pub-icon" aria-hidden="true"&gt;&lt;/i&gt;
-&lt;span class="article-metadata li-cite-author"&gt;
-&lt;span &gt;&lt;a href="../authors/me/"&gt;Emmanuel G.&lt;/a&gt;&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
-&lt;button
-@mouseenter="tooltip = true"
-@mouseleave="tooltip = false"
-@click="tooltip = !tooltip"
-class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
-data-tooltip="Equal contribution"
-aria-label="Equal contribution"
-type="button"
-&gt;
-&lt;svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"&gt;
-&lt;path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"&gt;&lt;/path&gt;
-&lt;/svg&gt;
-&lt;/button&gt;
-&lt;div
-x-show="tooltip"
-x-transition:enter="transition ease-out duration-200"
-x-transition:enter-start="opacity-0 transform scale-95"
-x-transition:enter-end="opacity-100 transform scale-100"
-x-transition:leave="transition ease-in duration-150"
-x-transition:leave-start="opacity-100 transform scale-100"
-x-transition:leave-end="opacity-0 transform scale-95"
-@click.away="tooltip = false"
-class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
-x-cloak
-&gt;
-Equal contribution
-&lt;div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/span&gt;, &lt;span &gt;Gilles Pagès&lt;/span&gt;&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }"&gt;
-&lt;button
-@mouseenter="tooltip = true"
-@mouseleave="tooltip = false"
-@click="tooltip = !tooltip"
-class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
-data-tooltip="Equal contribution"
-aria-label="Equal contribution"
-type="button"
-&gt;
-&lt;svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"&gt;
-&lt;path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"&gt;&lt;/path&gt;
-&lt;/svg&gt;
-&lt;/button&gt;
-&lt;div
-x-show="tooltip"
-x-transition:enter="transition ease-out duration-200"
-x-transition:enter-start="opacity-0 transform scale-95"
-x-transition:enter-end="opacity-100 transform scale-100"
-x-transition:leave="transition ease-in duration-150"
-x-transition:leave-start="opacity-100 transform scale-100"
-x-transition:leave-end="opacity-0 transform scale-95"
-@click.away="tooltip = false"
-class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
-x-cloak
-&gt;
-Equal contribution
-&lt;div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/span&gt;
-&lt;/span&gt;
-(2025).
-&lt;a href="../publications/journal-article/" class="underline"&gt;On a Stationarity Theory for Stochastic Volterra Integral Equations&lt;/a&gt;.
-SPA.
-&lt;div class="flex flex-wrap space-x-3"&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-05585827" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;
-PDF
-&lt;/a&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/StabilizedVolterraIntegralEquations.ipynb" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/&gt;&lt;/svg&gt;
-Code
-&lt;/a&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="../uploads/EmmanuelG_StationaritySVIEs_CRMBarcelona.pdf" &gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/&gt;&lt;/svg&gt;
-Slides
-&lt;/a&gt;
-&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publications/journal-article/cite.bib"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/&gt;&lt;/svg&gt;
-&lt;span&gt;Cite&lt;/span&gt;
-&lt;/button&gt;
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://arxiv.org/abs/2511.03474" target="_blank" rel="noopener"&gt;
-&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/&gt;&lt;/svg&gt;
-Preprint
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="video"&gt;Video&lt;/h2&gt;
-&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your
-, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id="podcast"&gt;Podcast&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Try it out:&lt;/p&gt;
-&lt;audio controls &gt;
-&lt;source src="../blog/teach-courses/ambient-piano.mp3" type="audio/mpeg"&gt;
-&lt;/audio&gt;
-&lt;h2 id="test-students"&gt;Test students&lt;/h2&gt;
-&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; spoiler text=&amp;#34;👉 Click to view the solution&amp;#34; &amp;gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; /spoiler &amp;gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class="spoiler " id="spoiler-4"&gt;
-&lt;summary class="cursor-pointer"&gt;👉 Click to view the solution&lt;/summary&gt;
-&lt;div class="rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2"&gt;
-You found me 🎉
-&lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id="math-block"&gt;Math block:&lt;/h2&gt;
-&lt;!--
-renders as
-$$\begin{tikzpicture}[scale=1.1]\def\gammaVal{1.5}
-\def\R{2.5}
-\def\deltaVal{0.15}
-\def\c{0.5}
-\def\r{1/\R}
-\draw[-&gt;] (-3, 0) -- (3, 0) node[right] {$\Re(z)$};
-\draw[-&gt;] (0, -3) -- (0, 3) node[above] {$\Im(z)$};
-\draw[blue, thick, -&gt;] (\gammaVal, -\R) -- (\gammaVal, \R);
-\node at (\gammaVal + 0.3, 0.2) {\small \textcolor{blue}{$\textit{Br}(\gamma, R)$}};
-\draw[red, thick, -&gt;] (\gammaVal, \R) -- (0, \R) node[midway, above] {\small $C^+$};
-\draw[red, thick, &lt;-] (\gammaVal, -\R) -- (0, -\R) node[midway, below] {\small $C^-$};
-\draw[green, thick, -&gt;] (0, \R) arc[start angle=90, end angle=175, radius=\R];
-\draw[green, thick, &lt;-] (0, -\R) arc[start angle=270, end angle=185, radius=\R];
-\node at (-2.4, 2.1) {\small $C_R^+$};
-\node at (-2.4, -2.1) {\small $C_R^-$};
-\draw[orange, thick, &lt;-] (-\R, \deltaVal) -- (-\c, \deltaVal);
-\draw[orange, thick, -&gt;] (-\R, -\deltaVal) -- (-\c, -\deltaVal);
-\node at (-1.8, -0.35) {\small \textit{H}$(\delta, \tfrac{1}{R})$};
-\draw[orange, thick] (-\c, \deltaVal) arc[start angle=160, end angle=-155, radius=\r];
-\end{tikzpicture}
-\captionof{figure}{Jordan contour \( \Gamma_{\gamma, \delta, R} \).}$$
---&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-latex" data-lang="latex"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="sb"&gt;$$&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\begin&lt;/span&gt;&lt;span class="nb"&gt;{align&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="nb"&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt; &amp;amp;&lt;/span&gt;&lt;span class="nv"&gt;\sum&lt;/span&gt;&lt;span class="nb"&gt;_{z &lt;/span&gt;&lt;span class="nv"&gt;\in&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\mathbb&lt;/span&gt;&lt;span class="nb"&gt;{C} &lt;/span&gt;&lt;span class="nv"&gt;\setminus&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\{&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nv"&gt;\}&lt;/span&gt;&lt;span class="nb"&gt;: z^&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="o"&gt;=-&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;} &lt;/span&gt;&lt;span class="nv"&gt;\text&lt;/span&gt;&lt;span class="nb"&gt;{Res}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, &lt;/span&gt;&lt;span class="nv"&gt;\cdot&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i} &lt;/span&gt;&lt;span class="nv"&gt;\oint&lt;/span&gt;&lt;span class="nb"&gt;_{&lt;/span&gt;&lt;span class="nv"&gt;\Gamma&lt;/span&gt;&lt;span class="nb"&gt;_{&lt;/span&gt;&lt;span class="nv"&gt;\gamma&lt;/span&gt;&lt;span class="nb"&gt;, &lt;/span&gt;&lt;span class="nv"&gt;\delta&lt;/span&gt;&lt;span class="nb"&gt;, R}} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{&lt;/span&gt;&lt;span class="nv"&gt;\textit&lt;/span&gt;&lt;span class="nb"&gt;{Br}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;\gamma&lt;/span&gt;&lt;span class="nb"&gt;, R&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{C^&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz &lt;/span&gt;&lt;span class="nv"&gt;\\&lt;/span&gt;&lt;span class="nb"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt; &amp;amp;&lt;/span&gt;&lt;span class="nv"&gt;\quad&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\hspace&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;.&lt;/span&gt;&lt;span class="m"&gt;5&lt;/span&gt;&lt;span class="nb"&gt;cm} &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{C_R^&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz &lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{&lt;/span&gt;&lt;span class="nv"&gt;\textit&lt;/span&gt;&lt;span class="nb"&gt;{H}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;\delta&lt;/span&gt;&lt;span class="nb"&gt;, &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{R}&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{C_R^&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz &lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\frac&lt;/span&gt;&lt;span class="nb"&gt;{&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="nb"&gt;}{&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="nv"&gt;\pi&lt;/span&gt;&lt;span class="nb"&gt; i}&lt;/span&gt;&lt;span class="nv"&gt;\int&lt;/span&gt;&lt;span class="nb"&gt;_{C^&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt;} J_{&lt;/span&gt;&lt;span class="nv"&gt;\alpha&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;t, z&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\,&lt;/span&gt;&lt;span class="nb"&gt; dz.
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nb"&gt; &lt;/span&gt;&lt;span class="nv"&gt;\end&lt;/span&gt;&lt;span class="nb"&gt;{align&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="nb"&gt;}&lt;/span&gt;&lt;span class="s"&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$\begin{align*}
-&amp;\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z)
-= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz
-= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
-&amp;\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.\end{align*}
-$$&lt;h2 id="code"&gt;Code&lt;/h2&gt;
-&lt;p&gt;HugoBlox Kit utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;pandas&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;pd&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;read_csv&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;data&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="inline-images"&gt;Inline Images&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-go" data-lang="go"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;{{&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;icon&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;name&lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;python&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;&amp;gt;}}&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;Python&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-&lt;span class="inline-block pr-1"&gt;
-&lt;span style="height: 1em; transform: translateY(0.1em);"&gt;python&lt;/span&gt;
-&lt;/span&gt; Python&lt;/p&gt;</description></item></channel></rss>
+$$</description>
+    </item>
+    
+  </channel>
+</rss>
