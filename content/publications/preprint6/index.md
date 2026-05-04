@@ -13,20 +13,19 @@ tags:
 - Optimal Control of Volterra Integral Jump Diffusions
 - Martingale Optimality Principle
 - Backward Stochastic Differential Equations with Jumps (BSDEJ)
-- Fractional Differential Equations
-- Riccati Equations
-
+- Fractional Riccati Equations
+- Lévy processes
 featured: true
 
 hugoblox:
   ids:
-    arxiv: 2604.01300
+    arxiv: 2605.00688
 
 links:
-# - type: pdf
-#  url: https://hal.science/hal-05585864v1
-# - type: code
-#  url: https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/UtilityMaxim.ipynb
-#- type: slides
-#  url: ../uploads/InhomogeneousHawkesVolterra.pdf
+ - type: pdf
+   url: https://arxiv.org/pdf/2605.00688
+ - type: code
+   url: https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/MertonProblemVolterraHestonJumps_final.ipynb
+# - type: slides
+#   url: ../uploads/InhomogeneousHawkesVolterra.pdf
 ---

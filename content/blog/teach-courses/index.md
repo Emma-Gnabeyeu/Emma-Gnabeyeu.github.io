@@ -113,16 +113,6 @@ $$\begin{tikzpicture}[scale=1.1]\def\gammaVal{1.5}
 			\end{tikzpicture}
 			\captionof{figure}{Jordan contour \( \Gamma_{\gamma, \delta, R} \).}$$
 -->
-```latex
-$$	\begin{align*}
-		&\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
-		= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz 
-		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
-		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.
-	\end{align*}$$
-```
-
-renders as
 
 $$\begin{align*}
 		&\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
@@ -130,6 +120,16 @@ $$\begin{align*}
 		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
 		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.\end{align*}
 $$
+
+**Latex code**
+```latex
+\begin{align*}
+		&\sum_{z \in \mathbb{C} \setminus \{-1\}: z^\alpha=-1} \text{Res}(J_{\alpha}(t, \cdot), z) 
+		= \frac{1}{2\pi i} \oint_{\Gamma_{\gamma, \delta, R}} J_{\alpha}(t, z) \, dz 
+		= \frac{1}{2\pi i}\int_{\textit{Br}(\gamma, R)} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^+} J_{\alpha}(t, z) \, dz \\
+		&\quad \hspace{1.5cm} + \frac{1}{2\pi i}\int_{C_R^+} J_{\alpha}(t, z) \, dz - \frac{1}{2\pi i}\int_{\textit{H}(\delta, \frac{1}{R})} J_{\alpha}(t, z) \, dz  + \frac{1}{2\pi i}\int_{C_R^-} J_{\alpha}(t, z) \, dz + \frac{1}{2\pi i}\int_{C^-} J_{\alpha}(t, z) \, dz.
+\end{align*}
+```
 
 <!--
 ## Code

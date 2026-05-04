@@ -65,22 +65,6 @@ Try it out:
 
 ## Math block:
 
-```latex
-\begin{itemize}
-		\item \textcolor{red}{Action network:} DPG=  \textcolor{blue}{Deep Policy gradient} % $ J = \mathbb{E}[R_{s_{t}}] ==== $ (\textbf{Proof:} Cf. Report)
-	\end{itemize}
-
-	$$ a_t \sim  \textcolor{red}{\pi^{D} (s_t,\theta^{\pi})} + \epsilon_t \quad \text{with} \quad \textcolor{brown}{\epsilon_t \sim \mathcal{N}(0, \sigma_n^2 I_K)} \quad \text{and} \quad \sigma_n = \text{max}(\sigma_0(1-\frac{n}{N} )^{4},\sigma_{\text{min}})$$
-	
-	\begin{itemize}
-		\item \textcolor{red}{Critic network:} \textcolor{blue}{Q-Learning and Bellman equation.} % $ Q_{\theta^{Q}}(s_{t_{i}},a_{t_{i}}) =  - \sum_{k=t_i}^{T} \mathbb{E}_{(s_{k},a_{k})\sim \rho_\pi} [ \gamma^{(k-t_i)} \xi (\vec{\theta}_{t_{k}} )] $             
-	\end{itemize}
-	
-	$ \begin{cases} R_{t}=\sum_{i=t}^{T}\gamma^{(i- t)}r(s_{i},a_{i})\\Q^{\pi}(s_{t},a_{t})=\mathbb{E}[R_{t}|s_{t},a_{t}]&\end{cases} \quad \Rightarrow \textcolor{red}{L(\theta^{Q})=\mathbb{E}[(Q^{\pi}(s_{t},a_{t}; \theta^{Q})-[r(s_{t},a_{t})+\gamma Q^{\pi}(s_{t+1},a_{t+1};\theta^{Q})])^{2}]}$
-```
-
-renders as
-
 $$
 \textcolor{red}{\text{Action network:}} \quad \text{DPG} = \textcolor{blue}{\text{Deep Policy Gradient}}
 $$
@@ -113,5 +97,22 @@ Q^{\pi}(s_{t},a_{t}; \theta^{Q})-
 \right]
 }
 $$
+
+**Latex code**
+```latex
+\begin{itemize}
+	\item \textcolor{red}{Action network:} DPG=  \textcolor{blue}{Deep Policy gradient} % $ J = \mathbb{E}[R_{s_{t}}] ==== $ (\textbf{Proof:} Cf. Report)
+\end{itemize}
+$$ 
+a_t \sim  \textcolor{red}{\pi^{D} (s_t,\theta^{\pi})} + \epsilon_t \quad \text{with} \quad \textcolor{brown}{\epsilon_t \sim \mathcal{N}(0, \sigma_n^2 I_K)} \quad \text{and} \quad \sigma_n = \text{max}(\sigma_0(1-\frac{n}{N} )^{4},\sigma_{\text{min}})
+$$
+\begin{itemize}
+	\item \textcolor{red}{Critic network:} \textcolor{blue}{Q-Learning and Bellman equation.} % $ Q_{\theta^{Q}}(s_{t_{i}},a_{t_{i}}) =  - \sum_{k=t_i}^{T} \mathbb{E}_{(s_{k},a_{k})\sim \rho_\pi} [ \gamma^{(k-t_i)} \xi (\vec{\theta}_{t_{k}} )] $             
+\end{itemize}
+$$ 
+\begin{cases} R_{t}=\sum_{i=t}^{T}\gamma^{(i- t)}r(s_{i},a_{i})\\Q^{\pi}(s_{t},a_{t})=\mathbb{E}[R_{t}|s_{t},a_{t}]&
+\end{cases} \quad \Rightarrow \textcolor{red}{L(\theta^{Q})=\mathbb{E}[(Q^{\pi}(s_{t},a_{t}; \theta^{Q})-[r(s_{t},a_{t})+\gamma Q^{\pi}(s_{t+1},a_{t+1};\theta^{Q})])^{2}]}
+$$
+```
 
 
