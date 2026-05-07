@@ -16,7 +16,9 @@
   <url>
     <loc>http://localhost:1313/authors/me/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/fractional-differential-equations/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/tags/fractional-riccati-equations/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/levy-processes/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/martingale-optimality-principle/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -27,8 +29,6 @@
     <loc>http://localhost:1313/publication_types/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/riccati-equations/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/</loc><lastmod>2026-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -60,9 +60,13 @@
   <url>
     <loc>http://localhost:1313/tags/backward-stochastic-differential-equations-bsde/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/tags/fractional-differential-equations/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/tags/functional-integral-equation/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/preprint5/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/riccati-equations/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/stochastic-control/</loc><lastmod>2026-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

@@ -23,7 +23,7 @@ hugoblox:
 
 links:
  - type: pdf
-   url: https://arxiv.org/pdf/2605.00688
+   url: https://hal.science/hal-05609235
  - type: code
    url: https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/MertonProblemVolterraHestonJumps_final.ipynb
 # - type: slides
