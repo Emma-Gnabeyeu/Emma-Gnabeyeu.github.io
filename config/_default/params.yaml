@@ -21,10 +21,14 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Academic website of Emmanuel Gnabeyeu, Engineer from École Polytechnique, mathematician and Research Scientist at LPSM, Sorbonne Université working on stochastic analysis, optimal control, probability Theory."
+ 
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
+      github:  "Emma-Gnabeyeu"
+      linkedin: "emmanuel-g-18b2bb20b"
+      google_scholar: "S7xCgI8AAAAJ"
+
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -129,7 +133,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Emmanuel Gnabeyeu Mbiada| Engineer from École Polytechnique and Research Scientist in Mathematics at LPSM, Sorbonne Université"
     # For local_business identity type only
     location:
       address:
@@ -147,7 +151,7 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
+      note: " Academic website of Emmanuel Gnabeyeu, Engineer from École Polytechnique and Research Scientist in Mathematics at LPSM, Sorbonne Université. Research interests include stochastic analysis, optimal control, probability theory, stochastic differential equations, and mathematical finance."
       contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────

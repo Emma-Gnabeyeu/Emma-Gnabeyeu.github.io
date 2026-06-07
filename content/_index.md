@@ -11,7 +11,11 @@ sections:
   - block: resume-biography-3
     content:
       username: me # profile: me # === username: me
-      text: ''
+      text: |
+        Hi, welcome to my website! I am a Research Scientist in Mathematics at <a href="https://www.lpsm.paris/" style="color:#0056b3;"> LPSM Sorbonne Université</a>, working on stochastic analysis, optimal control, diffusion models, and statistics, with applications to mathematical finance and machine learning.
+
+        Prior to this, I studied at <a href="https://www.polytechnique.edu" style="color:#0056b3;">École Polytechnique</a>, where I earned an engineering degree with a major in mathematics. I also obtained a Master’s degree in Probability and Finance from <a href="https://www.ip-paris.fr" style="color:#0056b3;">Institut Polytechnique de Paris</a>, jointly with <a href="https://www.sorbonne-universite.fr" style="color:#0056b3;">Sorbonne Université</a>, graduating with highest honors (*mention Très Bien*), and received a bachelor’s degree in Philosophy from <a href="https://dep-philo.parisnanterre.fr/le-departement" style="color:#0056b3;">Université Paris Nanterre</a>.
+      
       button:
         text: Download CV
         url: uploads/resume.pdf
