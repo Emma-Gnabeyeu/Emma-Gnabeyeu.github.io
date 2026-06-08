@@ -5,7 +5,7 @@
     <link>http://localhost:1313/blog/</link>
       <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog and Outreach</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_1c0e9cb08cfb822a.png</url>
       <title>Blog and Outreach</title>
@@ -48,6 +48,7 @@
   &lt;/span&gt;
   (2026).
   &lt;a href=&#34;../publications/preprint3/&#34; class=&#34;underline&#34;&gt;On Path-dependent Volterra Integral Equations: Strong Well-posedness and Stochastic Numerics.&lt;/a&gt;.
+  &lt;em&gt;Submitted for publication&lt;/em&gt;.
   
 
   
@@ -270,7 +271,7 @@
   &lt;/span&gt;
   (2025).
   &lt;a href=&#34;../publications/journal-article/&#34; class=&#34;underline&#34;&gt;On a Stationarity Theory for Stochastic Volterra Integral Equations&lt;/a&gt;.
-  SPA.
+  &lt;em&gt;Submitted for publication&lt;/em&gt;.
   
 
   

@@ -6,6 +6,8 @@ authors:
 - Gilles Pagès
 date: "2026-03-20"
 publication_types: ["article"]
+publication: "*Submitted for publication*"
+
 summary: "The aim of this paper is to provide a comprehensive analysis of the path-dependent Stochastic Volterra Integral Equations (SVIEs), in which both the drift and the diffusion coefficients are allowed to depend on the whole trajectory of the process up to the current time.
 "
 tags:

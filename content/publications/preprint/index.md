@@ -11,6 +11,7 @@ date: "2025-10-01"
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article"]
+publication: "*Submitted for publication*"
 
 abstract:
 

@@ -4,7 +4,9 @@ authors:
 - me
 date: "2026-03-10"
 publication_types: ["article"]
-summary: " "
+publication: "*Submitted for publication*"
+
+summary: " We tackle the problem of Utility Maximization under Multivariate Fake Stationary Affine Volterra Models via BSDEs and Martingale Optimality Principle:  The resulting optimal strategies are derived in semi-closed form depending on the solutions to time-dependent multivariate Riccati-Volterra equations, while the optimal value is expressed using the solution to original Riccati BSDE. "
 
 tags:
 - Affine Volterra Processes

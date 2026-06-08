@@ -18,7 +18,7 @@ publishDate: "2026-04-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SPA"
+publication: "*Submitted for publication*"
 publication_short: ""
 
 abstract:
