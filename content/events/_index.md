@@ -5,8 +5,8 @@ type: page
 
 #### June 29th – July 3rd, 2026
 ##### XIII Bachelier World Congress of the Bachelier Finance Society 2026 — University of Bologna, Bologna, Italy.
-**Talk Title**: *On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related optimal Merton problem.*  
-[Talk Link](https://www.bacheliercongress.com/2026/) | [Slides](../uploads/) |
+**Talk Title**: *On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related applied optimal control problems.*  
+[Talk Link](https://www.bacheliercongress.com/2026/) | [Slides](../uploads/) |[Paper](https://arxiv.org/abs/2512.09590)|
 
 ---
 
@@ -27,7 +27,7 @@ type: page
 #### October 2025
 ##### Natixis Foundation for Research and Innovation Awards Ceremony — Sky Garden, Paris
 **Talk Title**: *A Reinforcement Learning Perspective on Exotics and Flow Equity Derivatives.*  
-[Talk Link](https://natixis.groupebpce.com/fr/articles/prix-du-meilleur-memoire-de-master-de-finance-quantitative/) | [Slides](../uploads/PresentationVolFitting.pdf) | [Poster](../uploads/Poster_RL_for_vol_IJCNN2025-_.pdf) [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991699)|
+[Talk Link](https://natixis.groupebpce.com/fr/articles/prix-du-meilleur-memoire-de-master-de-finance-quantitative/) | [Slides](../uploads/PresentationVolFitting.pdf) | [Poster](../uploads/Poster_RL_for_vol_IJCNN2025-_.pdf) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991699)|
 
 ---
 
