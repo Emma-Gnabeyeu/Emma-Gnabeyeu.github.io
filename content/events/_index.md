@@ -5,8 +5,8 @@ type: page
 
 #### June 29th – July 3rd, 2026
 ##### XIII Bachelier World Congress of the Bachelier Finance Society 2026 — University of Bologna, Bologna, Italy.
-**Talk Title**: *On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related applied optimal control problems.*  
-[Talk Link](https://www.bacheliercongress.com/2026/) | [Slides](../uploads/) |[Paper](https://arxiv.org/abs/2512.09590)|
+**Talk Title**: *On the fake stationary rough volatility models.*  
+[Talk Link](https://www.bacheliercongress.com/2026/) | [Slides](../uploads/Fake-QRH_Bachelier_Bologne.pdf) |[Paper1](https://hal.science/hal-05585827)|[Paper2](https://arxiv.org/abs/2512.09590)|
 
 ---
 
