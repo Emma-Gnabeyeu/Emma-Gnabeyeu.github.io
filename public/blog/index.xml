@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog and Outreach | </title>
-    <link>http://localhost:1313/blog/</link>
-      <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emma-gnabeyeu.github.io/blog/</link>
+      <atom:link href="https://emma-gnabeyeu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog and Outreach</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1c0e9cb08cfb822a.png</url>
+      <url>https://emma-gnabeyeu.github.io/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Blog and Outreach</title>
-      <link>http://localhost:1313/blog/</link>
+      <link>https://emma-gnabeyeu.github.io/blog/</link>
     </image>
     
     <item>
       <title>👩🏼‍🏫 Outreach in mathematics</title>
-      <link>http://localhost:1313/blog/teach-courses/</link>
+      <link>https://emma-gnabeyeu.github.io/blog/teach-courses/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/teach-courses/</guid>
+      <guid>https://emma-gnabeyeu.github.io/blog/teach-courses/</guid>
       <description>&lt;!--
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
 --&gt;
@@ -442,10 +442,10 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube g35U_lYtZZE &amp;gt;}}
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube RTC2KIboZws &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g35U_lYtZZE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RTC2KIboZws?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
 		&lt;/div&gt;
 
 &lt;!--
@@ -582,9 +582,9 @@ renders as
     
     <item>
       <title>👩🏼‍🏫 Awards and Certificates</title>
-      <link>http://localhost:1313/blog/award/</link>
+      <link>https://emma-gnabeyeu.github.io/blog/award/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/award/</guid>
+      <guid>https://emma-gnabeyeu.github.io/blog/award/</guid>
       <description>&lt;h2 id=&#34;-award-2025-best-european-masters-thesis-in-mathematical-finance&#34;&gt;🏆 Award: 2025 Best European Master’s Thesis in Mathematical Finance.&lt;/h2&gt;
 &lt;p&gt;Recipient of the 2025 Natixis Award for Best Master’s Thesis in Mathematical Finance, awarded by the 
 . | 

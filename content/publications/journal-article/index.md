@@ -1,5 +1,5 @@
 ---
-title: "On a Stationarity Theory for Stochastic Volterra Integral Equations"
+title: "On a Stationarity Theory for Stochastic Volterra Integral Equations with Affine Drift"
 authors:
 - me 
 # Emmanuel Gnabeyeu
@@ -30,7 +30,6 @@ tags:
 - Stochastic Volterra Processes 
 - Stochastic Differential Equations 
 - Fourier-Laplace Transforms
-- Jordan-Cauchy Residue Theorem
 - Regular Variation 
 - Tauberian Theorems
 - Limit theorems

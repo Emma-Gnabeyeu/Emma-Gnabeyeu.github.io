@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emmanuel G. | </title>
-    <link>http://localhost:1313/authors/me/</link>
-      <atom:link href="http://localhost:1313/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emma-gnabeyeu.github.io/authors/me/</link>
+      <atom:link href="https://emma-gnabeyeu.github.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmanuel G.</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/authors/me_hu_d23e5b4b5b6183d6.png</url>
+      <url>https://emma-gnabeyeu.github.io/media/authors/me_hu_a27a1cad3149dc2a.png</url>
       <title>Emmanuel G.</title>
-      <link>http://localhost:1313/authors/me/</link>
+      <link>https://emma-gnabeyeu.github.io/authors/me/</link>
     </image>
     
     <item>
       <title>Optimal Merton&#39;s Problem under Multivariate Affine Volterra Models with Jumps.</title>
-      <link>http://localhost:1313/publications/preprint6/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint6/</link>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint6/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👩🏼‍🏫 Outreach in mathematics</title>
-      <link>http://localhost:1313/blog/teach-courses/</link>
+      <link>https://emma-gnabeyeu.github.io/blog/teach-courses/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/teach-courses/</guid>
+      <guid>https://emma-gnabeyeu.github.io/blog/teach-courses/</guid>
       <description>&lt;!--
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
 --&gt;
@@ -450,10 +450,10 @@
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube g35U_lYtZZE &amp;gt;}}
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube RTC2KIboZws &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g35U_lYtZZE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RTC2KIboZws?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
 		&lt;/div&gt;
 
 &lt;!--
@@ -590,41 +590,41 @@ renders as
     
     <item>
       <title>On the mean-variance problem through the lens of multivariate fake stationary affine Volterra dynamics.</title>
-      <link>http://localhost:1313/publications/preprint5/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint5/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint5/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Path-dependent Volterra Integral Equations: Strong Well-posedness and Stochastic Numerics.</title>
-      <link>http://localhost:1313/publications/preprint3/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint3/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint3/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.</title>
-      <link>http://localhost:1313/publications/preprint4/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint4/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint4/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fake stationary rough Heston volatility: Microstructure-inspired foundations</title>
-      <link>http://localhost:1313/publications/preprint2/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint2/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint2/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>👩🏼‍🏫 Awards and Certificates</title>
-      <link>http://localhost:1313/blog/award/</link>
+      <link>https://emma-gnabeyeu.github.io/blog/award/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/award/</guid>
+      <guid>https://emma-gnabeyeu.github.io/blog/award/</guid>
       <description>&lt;h2 id=&#34;-award-2025-best-european-masters-thesis-in-mathematical-finance&#34;&gt;🏆 Award: 2025 Best European Master’s Thesis in Mathematical Finance.&lt;/h2&gt;
 &lt;p&gt;Recipient of the 2025 Natixis Award for Best Master’s Thesis in Mathematical Finance, awarded by the 
 . | 
@@ -990,17 +990,17 @@ $$&lt;p&gt;&lt;strong&gt;Latex code&lt;/strong&gt;&lt;/p&gt;
     
     <item>
       <title>On a Stationarity Theory for Stochastic Volterra Integral Equations</title>
-      <link>http://localhost:1313/publications/journal-article/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/journal-article/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/journal-article/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/conference-paper/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/conference-paper/</guid>
       <description></description>
     </item>
     

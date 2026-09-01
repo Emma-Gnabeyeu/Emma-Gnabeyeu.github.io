@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | </title>
-    <link>http://localhost:1313/publication_types/paper-conference/</link>
-      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emma-gnabeyeu.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://emma-gnabeyeu.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1c0e9cb08cfb822a.png</url>
+      <url>https://emma-gnabeyeu.github.io/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <link>https://emma-gnabeyeu.github.io/publication_types/paper-conference/</link>
     </image>
     
     <item>
       <title>Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/conference-paper/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/conference-paper/</guid>
       <description></description>
     </item>
     

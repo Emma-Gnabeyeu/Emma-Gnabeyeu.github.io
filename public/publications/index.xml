@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent Publications | </title>
-    <link>http://localhost:1313/publications/</link>
-      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emma-gnabeyeu.github.io/publications/</link>
+      <atom:link href="https://emma-gnabeyeu.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Publications</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_1c0e9cb08cfb822a.png</url>
+      <url>https://emma-gnabeyeu.github.io/media/icon_hu_eee4a95885829ab2.png</url>
       <title>Recent Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/</link>
     </image>
     
     <item>
       <title>Optimal Merton&#39;s Problem under Multivariate Affine Volterra Models with Jumps.</title>
-      <link>http://localhost:1313/publications/preprint6/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint6/</link>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint6/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the mean-variance problem through the lens of multivariate fake stationary affine Volterra dynamics.</title>
-      <link>http://localhost:1313/publications/preprint5/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint5/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint5/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Path-dependent Volterra Integral Equations: Strong Well-posedness and Stochastic Numerics.</title>
-      <link>http://localhost:1313/publications/preprint3/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint3/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint3/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.</title>
-      <link>http://localhost:1313/publications/preprint4/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint4/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint4/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fake stationary rough Heston volatility: Microstructure-inspired foundations</title>
-      <link>http://localhost:1313/publications/preprint2/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint2/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint2/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Inhomogeneous Affine Volterra Processes: Stationarity and Applications to the Volterra Heston Model</title>
-      <link>http://localhost:1313/publications/preprint/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/preprint/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/preprint/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On a Stationarity Theory for Stochastic Volterra Integral Equations</title>
-      <link>http://localhost:1313/publications/journal-article/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/journal-article/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/journal-article/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>https://emma-gnabeyeu.github.io/publications/conference-paper/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>https://emma-gnabeyeu.github.io/publications/conference-paper/</guid>
       <description></description>
     </item>
     
