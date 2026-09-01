@@ -7,6 +7,7 @@ type: "page"
 
 **Sorbonne Université, Faculty of Science & Engineering, Paris, France**
 
+- Differential Equations (Bachelor’s Degree - 3rd Year, Mathematics): [DST1](../uploads/DST_analyse_numérique_1.pdf).
 - Numerical Analysis (Bachelor’s Degree – 3rd Year, Mathematics): [DST1](../uploads/DST_analyse_numérique_1.pdf), [DST2](../uploads/DST_analyse_numérique_2.pdf).
 - Advanced Mathematics (Bachelor’s Degree – 1st Year, Mathematics): [CC1](../uploads/CC1_2026.pdf), [CC2](../uploads/CC2_2026.pdf)
 
