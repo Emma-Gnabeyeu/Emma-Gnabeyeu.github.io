@@ -30,5 +30,5 @@ links:
 #- type: slides
 #  url: ../uploads/InhomogeneousHawkesVolterra.pdf
 - type: preprint
-  url: https://arxiv.org/abs/2604.01300
+  url: https://arxiv.org/pdf/2604.01300
 ---

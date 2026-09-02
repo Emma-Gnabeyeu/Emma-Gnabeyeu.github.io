@@ -7,11 +7,11 @@ url: talk
 
 #### 29 June -3 July 2026
 **13th World Congress of the Bachelier Finance Society** — University of Bologna, Bologna, Italy.
-- *On a Stationarity Theory for Stochastic Volterra Integral Equations: Volatility Modeling and related optimal Merton problem.* 
+- *On the fake stationary rough volatility models.* 
 ---
 ### June 2026
 **Bachelier Seminar** — Institut Henri Poincaré, Paris
-- *On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.*
+- *A Journey Through Exponential Utility Maximization under Multivariate Fake Stationary Affine Volterra Models.*
 
 ---
 ### December 2025  
