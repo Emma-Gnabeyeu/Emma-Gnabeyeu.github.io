@@ -25,7 +25,7 @@ hugoblox:
 
 links:
  - type: pdf
-   url: https://hal.science/hal-05585827
+   url: https://hal.science/hal-05733278
  - type: code
    url: https://github.com/Emma-Gnabeyeu/Theses_EMG/blob/main/Notebooks/StabilizedVolterraIntegralEquations.ipynb
 # - type: slides
